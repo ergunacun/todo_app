@@ -22,7 +22,7 @@ Before getting started, ensure that you have the following software installed:
 
 ## Installation
 
-1. Clone this repository to your local machine using `https://github.com/your-username/task-manager-app.git`
+1. Clone this repository to your local machine using `https://github.com/ergunacun/todo_app.git`
 2. Open the cloned repository in your preferred IDE or editor
 3. Run the following command to install the required dependencies:
 
